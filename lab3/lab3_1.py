@@ -102,11 +102,11 @@ def zad2h():
     print("Zadanie 2h:", suma)
 
 def main():
-    zad1a()
+    #zad1a()
     #zad1b()
     #zad1c()
     #zad1d()
-    #zad2a()
+    zad2a()
     #zad2b()
     #zad2c()
     #zad2d()
